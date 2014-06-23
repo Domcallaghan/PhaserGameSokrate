@@ -1,6 +1,6 @@
 
-var w = 1024;
-var h = 768;
+var w = 800;
+var h = 600;
 
 window.onload = function () {
 
